@@ -1,0 +1,9 @@
+*/RefCode
+*.o
+*.hex
+*.err
+*.lst
+*.cof
+*.map
+*.mcs
+*.mcw
